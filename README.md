@@ -1,2 +1,2 @@
-# .github
-Introduction to ArcadiaSot
+# Introduction
+to ArcadiaSoft
