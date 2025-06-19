@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> ArcadiaSoft <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Arcadia Soft <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> 
 
-Welcome to **ArcadiaSoft** — where imagination meets innovation!
+Welcome to **Arcadia Soft** — where imagination meets innovation!
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Us
 
-At ArcadiaSoft, we bring ideas to life through code. Our passionate team of developers tackle projects across the digital spectrum.
+At Arcadia Soft, we bring ideas to life through code. Our passionate team of developers tackle projects across the digital spectrum.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> What We Do
 - **Game Development:** Beautiful, engaging, and fun experiences across platforms.
@@ -16,4 +16,4 @@ At ArcadiaSoft, we bring ideas to life through code. Our passionate team of deve
 Check out our repositories to see the magic in action — whether you’re interested in games, AI, or something wild and new.
 
 ---
-**ArcadiaSoft** — Code That Powers Every Corner.
+**Arcadia Soft** — Code That Powers Every Corner.
